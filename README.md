@@ -1,1 +1,1 @@
-# stock_price_prediction
+# Basic stock price prediction using LSTM model.
